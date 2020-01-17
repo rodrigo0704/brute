@@ -1,0 +1,2 @@
+# brute
+explorar no linux
